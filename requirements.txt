@@ -1,0 +1,20 @@
+beautifulsoup4==4.9.3
+certifi==2021.5.30
+cffi==1.14.5
+Django==2.2.5
+django-bootstrap4==3.0.1
+django-braces==1.14.0
+gunicorn==20.1.0
+humanfriendly==9.2
+importlib-metadata==2.1.1
+misaka==2.1.1
+Pillow==8.2.0
+psycopg2==2.9.1
+pycparser==2.20
+pyreadline==2.1
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+six==1.16.0
+soupsieve==2.2.1
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+wincertstore==0.2
+zipp==3.4.1
